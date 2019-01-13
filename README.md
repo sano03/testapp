@@ -10,6 +10,7 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
+* shunが参加したよー
 
 * Database creation
 
